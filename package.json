@@ -1,0 +1,26 @@
+{
+  "name": "remove-duplicate-items-js-problem",
+  "version": "1.0.0",
+  "description": "**Objective:** The intent of this assignment is to remove duplicate items from the array. The idea is to learn more about iterators and built-in functions.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha"
+  },
+  "keywords": [
+    "duplicate",
+    "strings"
+  ],
+  "author": "Nishant Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "mocha": "^5.2.0",
+    "should": "^13.2.1"
+  },
+  "dependencies": {}
+}
