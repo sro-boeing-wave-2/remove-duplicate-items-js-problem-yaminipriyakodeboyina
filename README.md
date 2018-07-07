@@ -6,7 +6,7 @@
 
 ```
 # Add the remote to the starter code
-git remote add starter git@github.com:nishant-jain-94/remove-duplicate-items-js-problem.git
+git remote add starter https://github.com/nishant-jain-94/remove-duplicate-items-js-problem
 
 # Install all the dependencies
 npm install
